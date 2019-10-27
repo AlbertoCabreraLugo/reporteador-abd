@@ -1,6 +1,6 @@
 ﻿namespace Reporteador
 {
-    partial class Form1
+    partial class Start
     {
         /// <summary>
         /// Required designer variable.
